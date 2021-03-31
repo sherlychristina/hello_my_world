@@ -9,5 +9,6 @@ int main()
     std::cout << "Hello, Sam!\n";
     for (int i = front; i <= rear; i++)
       std::cout<<queue[i]<<" ";
+      std::cout<<queue[i]<<" ";
 
 }
